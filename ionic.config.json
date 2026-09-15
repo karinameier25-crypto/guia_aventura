@@ -1,0 +1,7 @@
+{
+  "name": "guia_aventura",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
