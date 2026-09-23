@@ -15,8 +15,8 @@ export const pontosTuristicos: PontoTuristico[] = [
     nome: 'Mirante da Serra',
     descricao:
       'Trilha curta com vista panorâmica da cidade, ideal para observar o pôr do sol.',
-    latitude: -26.3021,
-    longitude: -48.8456,
+    latitude: -26.2922,
+    longitude: -48.8268,
     imagem: 'https://picsum.photos/seed/mirante/400/300'
   },
   {
