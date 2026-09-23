@@ -51,7 +51,8 @@
       </ion-card>
 
       <!-- Desafio extra: "Perto de mim" -->
-      <ion-card>
+      <div class="perto">
+      <ion-card >
         <ion-card-header>
           <ion-card-title>Perto de mim</ion-card-title>
         </ion-card-header>
@@ -71,7 +72,7 @@
           </ion-item>
         </ion-card-content>
       </ion-card>
-
+</div>
       <!-- 4. Lista / seleção de pontos turísticos -->
       <ion-list>
         <ion-list-header>Pontos turísticos ({{ pontosExibidos.length }})</ion-list-header>
@@ -174,6 +175,7 @@ function abrirDetalhe(ponto: PontoTuristico) {
 </script>
 
 <style scoped>
+
 .linha {
   display: flex;
   align-items: center;
